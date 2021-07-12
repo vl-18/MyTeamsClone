@@ -25,7 +25,7 @@ App Functionalities
 
 Technologies and libraries used
 -------------------------------
-* reactjs
+* reactjs, bootstrap
 * nodejs, express
 * socket.io
 * peerjs
@@ -34,7 +34,7 @@ Technologies and libraries used
 Reactjs is used for the frontend whereas nodejs and express are used for the backend of the project.
 Socket.io is used to establish real-time data connection between the users.
 Peerjs (WebRTC) is used for real-time audio and video sharing.
-Cors is used for handling cross origin requests.
+Cors is used for handling cross origin requests.Bootstrap is used for styling.
 
 
 Languages used
