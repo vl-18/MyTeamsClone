@@ -31,6 +31,12 @@ Technologies and libraries used
 * peerjs
 * cors 
 
+Reactjs is used for the frontend whereas nodejs and express are used for the backend of the project.
+Socket.io is used to establish real-time data connection between the users.
+Peerjs (WebRTC) is used for real-time audio and video sharing.
+Cors is used for handling cross origin requests.
+
+
 Languages used
 --------------
 * EJS
@@ -45,7 +51,30 @@ Future possible functionalities
 4. The feature through which one can share pdf files, documents and gps location in the chat.
 5. The feature through which access of controls of the conversation can be handled by the organiser of the meeting.
 
+License
+--------
 
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+Copyright (c) 2021 Lahari
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
