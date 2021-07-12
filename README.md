@@ -10,7 +10,8 @@ The aim of this project is to build a Teams Clone through which 2 or more people
 To view a demo of this project, download the repository, install the dependencies and and start server.js. The demo works on Google Chrome, Microsoft Edge, 
 Safari and Firefox.
 
-You can also view the demo using the link below.(This repo is hosted on Heroku)
+You can also view the demo using the link below(This repo is hosted on Heroku).
+
 [View Demo](https://boiling-fjord-62718.herokuapp.com/)
 
 App Functionalities
