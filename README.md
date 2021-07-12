@@ -46,10 +46,10 @@ Languages used
 Future possible functionalities
 -------------------------------
 1. The feature through which users can chat through text messages, before and after the video call and chat being accesible to the room members.
-2. A login/signUp page for authentication.
-3. The feature of screen sharing.
-4. The feature through which one can share pdf files, documents and gps location in the chat.
-5. The feature through which access of controls of the conversation can be handled by the organiser of the meeting.
+2. The feature through which access of controls of the conversation can be handled by the organiser of the meeting.
+3. A login/signUp page for authentication.
+4. The feature of screen sharing.
+5. The feature through which one can share pdf files, documents and gps location in the chat.
 
 License
 --------
