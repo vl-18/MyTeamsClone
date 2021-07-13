@@ -38,11 +38,11 @@ Cors is used for handling cross origin requests.Bootstrap is used for styling.
 
 Dependencies to install
 -----------------------
-````npm init -y````
-````npm install express````
-````npm install socket.io````
-````npm install peerjs````
-````npm install cors````
+- ````npm init -y```` to initiate nodejs
+- ````npm install express```` to start express server
+- ````npm install socket.io```` to install socket.io
+- ````npm install peerjs```` to install peerjs
+- ````npm install cors```` to install cors
 
 - To save and run the server intantly -- ````npm install nodemon````
 - You can add ````-g```` to the dependencies if you wish to install globally
