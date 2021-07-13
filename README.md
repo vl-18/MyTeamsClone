@@ -10,7 +10,7 @@ The aim of this project is to build a Teams Clone through which 2 or more people
 To view a demo of this project, download the repository, install the dependencies and and start server.js. The demo works on Google Chrome, Microsoft Edge, 
 Safari and Firefox.
 
-You can also view the demo using the link below(This repo is hosted on Heroku).
+You can also view the demo using the link below(This repo is hosted on ````Heroku````).
 
 [View Demo](https://boiling-fjord-62718.herokuapp.com/)
 
@@ -35,6 +35,17 @@ Reactjs is used for the frontend whereas nodejs and express are used for the bac
 Socket.io is used to establish real-time data connection between the users.
 Peerjs (WebRTC) is used for real-time audio and video sharing.
 Cors is used for handling cross origin requests.Bootstrap is used for styling.
+
+Dependencies to install
+-----------------------
+````npm init -y````
+````npm install express````
+````npm install socket.io````
+````npm install peerjs````
+````npm install cors````
+
+- To save and run the server intantly -- ````npm install nodemon````
+- You can add ````-g```` to the dependencies if you wish to install globally
 
 
 Languages used
